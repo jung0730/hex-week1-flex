@@ -56,11 +56,25 @@ table {
 /* main */
 main {
 	display: flex;
+	margin-bottom: 24px;
 }
 
 main p {
 	font-size: 20px;
 	line-height: 1.2;
+}
+
+.article {
+	display: flex;
+}
+
+.article img {
+	margin-right: 20px;
+	margin-bottom: 24px;
+}
+
+.ad {
+	margin-left: 20px;
 }
 
 /* footer */
